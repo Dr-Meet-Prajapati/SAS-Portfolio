@@ -301,9 +301,9 @@ Healthcare Domain        ██████████████████�
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [meetprajapati.github.io](https://meetprajapati.github.io) |
-| 💼 LinkedIn | [linkedin.com/in/meetprajapati](https://linkedin.com/in/meetprajapati) |
-| 📧 Email | meet.prajapati@email.com |
+| 🌐 Portfolio | [meetprajapati.github.io]( https://github.com/Dr-Meet-Prajapati/SAS-Portfolio/edit/main/README.md)|
+| 💼 LinkedIn | [linkedin.com/in/meetprajapati](linkedin.com/in/dr-meet-prajapati-778056210/) |
+| 📧 Email | meetsprajapati12@gmail.com |
 
 **Open to Clinical SAS Programmer · Biostatistics Analyst · Healthcare Data Analyst roles**
 
