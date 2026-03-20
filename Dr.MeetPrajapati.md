@@ -301,7 +301,7 @@ Healthcare Domain        ██████████████████�
 
 | Platform | Link |
 |---|---|
-| 🌐 Portfolio | [meetprajapati.github.io]( https://github.com/Dr-Meet-Prajapati/SAS-Portfolio/edit/main/README.md)|
+| 🌐 Portfolio | [meetprajapati.github.io](https://github.com/Dr-Meet-Prajapati/SAS-Portfolio/edit/main/Dr.MeetPrajapati.md )|
 | 💼 LinkedIn | [linkedin.com/in/meetprajapati](linkedin.com/in/dr-meet-prajapati-778056210/) |
 | 📧 Email | meetsprajapati12@gmail.com |
 
