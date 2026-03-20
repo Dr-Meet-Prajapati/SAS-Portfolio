@@ -7,9 +7,8 @@
 ![Healthcare](https://img.shields.io/badge/Domain-Healthcare%20Analytics-3FB950?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Available%20for%20Hire-E3B341?style=for-the-badge)
 
-**Interactive GitHub-style SAS Programming Portfolio built on a real 500-patient healthcare dataset.**
+**Interactive GitHub-style SAS Programming Portfolio built on a 500-patient healthcare dataset.**
 
-[🌐 Live Portfolio](https://meetprajapati.github.io) • [📊 Analytics Dashboard](https://meetprajapati.github.io/#analytics) • [💻 Code Snippets](#-sas-code-coverage) • [📁 Projects](#-featured-projects)
 
 </div>
 
