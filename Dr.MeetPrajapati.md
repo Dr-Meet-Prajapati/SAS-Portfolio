@@ -19,7 +19,7 @@
 
 This portfolio demonstrates hands-on SAS programming skills applied to a **synthetic healthcare dataset** containing 500 patient records across 13 clinical variables. It covers the full data analysis pipeline — from raw CSV import to formatted reports — using industry-standard SAS procedures.
 
-> 💡 Built as a **fresher SAS programmer** with a medical background (MBBS), combining clinical domain knowledge with data programming skills.
+> 💡 Built as a **fresher SAS programmer** with a medical background (Pharm D), combining clinical domain knowledge with data programming skills.
 
 ---
 
