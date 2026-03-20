@@ -9,7 +9,7 @@
 
 **Interactive GitHub-style SAS Programming Portfolio built on a real 500-patient healthcare dataset.**
 
-[🌐 Live Portfolio](https://meetprajapati.github.io) • [📊 Analytics Dashboard](#-analytics-dashboard) • [💻 Code Snippets](#-sas-code-coverage) • [📁 Projects](#-featured-projects)
+[🌐 Live Portfolio](https://meetprajapati.github.io) • [📊 Analytics Dashboard](https://meetprajapati.github.io/#analytics) • [💻 Code Snippets](#-sas-code-coverage) • [📁 Projects](#-featured-projects)
 
 </div>
 
@@ -302,7 +302,7 @@ Healthcare Domain        ██████████████████�
 | Platform | Link |
 |---|---|
 | 🌐 Portfolio | [meetprajapati.github.io](https://github.com/Dr-Meet-Prajapati/SAS-Portfolio/edit/main/Dr.MeetPrajapati.md )|
-| 💼 LinkedIn | [linkedin.com/in/meetprajapati](linkedin.com/in/dr-meet-prajapati-778056210/) |
+| 💼 LinkedIn | [linkedin.com/in/meetprajapati](www.linkedin.com/in/dr-meet-prajapati ) |
 | 📧 Email | meetsprajapati12@gmail.com |
 
 **Open to Clinical SAS Programmer · Biostatistics Analyst · Healthcare Data Analyst roles**
